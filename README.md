@@ -4,4 +4,4 @@ live link: https://alif_tailwind_css.surge.sh/
 
 
 ## screenshot
-     ![project image boy fashion](/images/Rectangle%2017854.png)
+     ![project image boy fashion] (/images/Rectangle%2017854.png)
